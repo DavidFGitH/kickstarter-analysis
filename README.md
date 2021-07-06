@@ -15,12 +15,12 @@ Based on the initial results of the analysis, there is cause to believe that lau
 ### Analysis of Outcomes Based on Launch Date
 
 By isolating all theater projects and dividing projects based on year, we produced data and the below graph. Looking at the graph, it's clear that the best month to start a theater project would be in May, while the worst month to start a kickstarter project would be in December. This can be found by looking at which months have the highest disparity vs months with the lowest disparity in the graph. The trend seems to be a peak in the amound of successful projects around the month of May and decrease until it hits nadir in the month of December.
-https://github.com/DavidFGitH/kickstarter-analysis/blob/91f3179a37d1e824ca2dce13738aa6b018780557/resources/Theater_Outcomes_vs_Launch.png
+![Image of OBLD](https://github.com/DavidFGitH/kickstarter-analysis/blob/91f3179a37d1e824ca2dce13738aa6b018780557/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 The graph below was created using data created by isolating various ranges of funding goals, and counting the results of kickstarter play projcts in each category and converting the counts as a percentage. The best conclusion that can be made from the data is that for projects with funding goals less than 4999, there is a more than 70% chance of getting a project funded. With higher funding goals, the chance of success drop dramatically to around 50 percent and lower, and although there are ranges with higher percentantages of success those are less reliabe as will be elucidated in challenges. 
-https://github.com/DavidFGitH/kickstarter-analysis/blob/91f3179a37d1e824ca2dce13738aa6b018780557/resources/Outcomes_vs_Goals.png
+![Image of OBG](https://github.com/DavidFGitH/kickstarter-analysis/blob/91f3179a37d1e824ca2dce13738aa6b018780557/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
